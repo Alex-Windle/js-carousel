@@ -1,4 +1,23 @@
 .display {
+	position: relative;
 	height: 400px;
 	width: 600px;
+}
+
+.next-btn, .prev-btn {
+	font-family: Arial;
+	font-size: 1.5em;
+	color: white; 
+}
+
+.next-btn {
+	position: absolute;
+	top: 200px;
+	right: 10px;
+}
+
+.prev-btn {
+	position: absolute;
+	top: 200px;
+	left: 10px;
 }
