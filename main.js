@@ -16,7 +16,7 @@ var carouselImages = [
   }
 ];
 
-var display = document.querySelector('.image');
+var display = document.querySelector('.display');
 var nextBtn = document.querySelector('.next-btn');
 var prevBtn = document.querySelector('.prev-btn'); 
 
