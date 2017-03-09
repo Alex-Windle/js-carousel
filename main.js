@@ -29,7 +29,6 @@ var count = 0;
 
 function nextImage() {
   if (count < 2) {
-    console.log("hey")
     count = count + 1; 
   } else {
     count = 0; 
